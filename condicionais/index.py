@@ -1,6 +1,9 @@
-def valida_nota(nota):
-    if nota < 5:
-        print("Nota menor que 5")
+# def validar_nota(nota):
+#         print(f"O valor da Nota é {nota}")
 
 
-valida_nota(4)
+# notas = [3, 7, 8, 2, 9]
+
+# for nota in notas:
+#     validar_nota(nota)
+
