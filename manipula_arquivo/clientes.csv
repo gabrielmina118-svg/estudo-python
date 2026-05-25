@@ -1,0 +1,14 @@
+nome,idade,cpf,email,telefone,celular,data_nascimento,genero,estado_civil,cep,endereco,numero,bairro,cidade,estado
+joao,65,123.456.789-00,joao@email.com,(11) 3344-5566,(11) 91234-5678,15/03/1959,Masculino,Casado,01310-100,Av. Paulista,1000,Bela Vista,São Paulo,SP
+maria,52,234.567.890-11,maria@email.com,(21) 2244-6677,(21) 98765-4321,22/07/1972,Feminino,Divorciada,20040-020,Rua da Assembleia,200,Centro,Rio de Janeiro,RJ
+gabriel,28,345.678.901-22,gabriel@email.com,(31) 3355-7788,(31) 97654-3210,05/11/1995,Masculino,Solteiro,30112-000,Rua dos Caetés,50,Centro,Belo Horizonte,MG
+ana souza,34,456.789.012-33,ana.souza@email.com,(11) 4455-8899,(11) 96543-2109,18/04/1990,Feminino,Casada,04538-133,Rua Vergueiro,300,Vila Mariana,São Paulo,SP
+carlos lima,45,567.890.123-44,carlos.lima@email.com,(41) 3366-9900,(41) 95432-1098,30/09/1978,Masculino,Casado,80010-020,Rua XV de Novembro,100,Centro,Curitiba,PR
+fernanda reis,29,678.901.234-55,fernanda.reis@email.com,(51) 3377-0011,(51) 94321-0987,12/06/1995,Feminino,Solteira,90010-270,Av. Borges de Medeiros,500,Centro Histórico,Porto Alegre,RS
+roberto alves,60,789.012.345-66,roberto.alves@email.com,(85) 3388-1122,(85) 93210-9876,03/01/1964,Masculino,Viúvo,60135-230,Av. Barão de Studart,750,Aldeota,Fortaleza,CE
+patricia moura,38,890.123.456-77,patricia.moura@email.com,(71) 3399-2233,(71) 92109-8765,25/08/1985,Feminino,Casada,41950-220,Rua Amazonas da Costa,200,Pituba,Salvador,BA
+lucas pereira,23,901.234.567-88,lucas.pereira@email.com,(62) 3410-3344,(62) 91098-7654,14/02/2001,Masculino,Solteiro,74805-100,Rua T-63,400,Setor Bueno,Goiânia,GO
+juliana costa,41,012.345.678-99,juliana.costa@email.com,(92) 3421-4455,(92) 90987-6543,07/12/1982,Feminino,Divorciada,69040-010,Av. Djalma Batista,1200,Chapada,Manaus,AM
+marcos santos,55,111.222.333-44,marcos.santos@email.com,(81) 3432-5566,(81) 99876-5432,20/05/1969,Masculino,Casado,50010-010,Rua da Aurora,350,Boa Vista,Recife,PE
+beatriz nunes,31,222.333.444-55,beatriz.nunes@email.com,(27) 3443-6677,(27) 98765-4322,09/10/1992,Feminino,Solteira,29010-926,Av. Princesa Isabel,600,Centro,Vitória,ES
+thiago ferreira,47,333.444.555-66,thiago.ferreira@email.com,(65) 3454-7788,(65) 97654-3211,16/03/1977,Masculino,Casado,78005-000,Av. Historiador Rubens Mendonça,900,Araés,Cuiabá,MT
